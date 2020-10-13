@@ -13,8 +13,21 @@
 
 <br></br>
 <div class="container">
-        <h1>Biiiiiieeeeeenveeeeeeniiiiiidos  guapos y guapas </h1>
+        <h1>Hola </h1>
     </div>
+
+    <p>
+    <div class="container">
+        <h1>Biiiiiieeeeeenveeeeeeniiiiiidos  guapos y guapas </h1>
+    </div>    
+    </p>
+
+    <img alt="hola" title="auron" src="{{asset("imagenes/auron.jpg")}}" height="400px"/>
+
+   
+
+
+
     
 </body>
 </html>
