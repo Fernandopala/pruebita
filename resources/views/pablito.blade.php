@@ -61,7 +61,7 @@
         </ul>
 
     <h3>Incrustar imagen</h3>
-        <img alt="No se encuentra la imagen" title="Miku-Chan" src="resources/imagenes/miku.jpg" height="400px"/> <!-- si solo se selecciona una de las opciones de edicion de altura, esta se cuadrara automaticamente, manteniendo las proporciones de la imagen original -->
+    <img alt="No se encuentra la imagen" title="Miku-Chan" src="{{asset("imagenes/miku.jpg")}}" height="400px"/> <!-- si solo se selecciona una de las opciones de edicion de altura, esta se cuadrara automaticamente, manteniendo las proporciones de la imagen original -->
     
     <h3>Tablas</h3>
         <table border="1">
