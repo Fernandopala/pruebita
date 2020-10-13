@@ -36,6 +36,9 @@ Route::get('pala', function () {
     return view('pala');
 })->name('pala');
 
+Route::get('tomas', function () {
+    return view('tomas');
+})->name('tomas');
 
 
 
