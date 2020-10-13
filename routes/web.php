@@ -27,3 +27,11 @@ Route::get('/leandro', function () {
 Route::get('pablo', function () {
     return view('pablito');
 })->name('pablo');
+
+Route::get('pala', function () {
+    return view('pala');
+})->name('pala');
+
+
+
+

@@ -60,6 +60,7 @@
                                       Putos-----> No sabia que hacer pero algo cache 
                                 </div>
                                 <button><a href="{{route('pablo')}}" class="btn btn-primary">Pagina Pablo</a></button>
+                                <button><a href="{{route('pala')}}" class="btn btn-primary">Presiona el boton puto</a></button>
                                 
                             </div>
                         </div>
