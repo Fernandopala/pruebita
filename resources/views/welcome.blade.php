@@ -87,6 +87,7 @@
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                     funciono la wea?
+                                    <button><a href="{{route('tomas')}}" class="btn btn-primary">Pagina Tomas</a></button>
                                 </div>
                             </div>
                         </div>
