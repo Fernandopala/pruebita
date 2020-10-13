@@ -35,6 +35,10 @@
                     @endif
                 </div>
             @endif
+            
+            <div class="container">
+                <a href="{{route('pablo')}}" class="btn btn-primary">Pagina Pablo</a>
+            </div>
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
                 <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
