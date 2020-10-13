@@ -24,6 +24,10 @@ Route::get('/leandro', function () {
     return view('leandro');
 })->name('leandro');
 
+Route::get('/felipe', function () {
+    return view('felipe');
+})->name('felipe');
+
 Route::get('pablo', function () {
     return view('pablito');
 })->name('pablo');
