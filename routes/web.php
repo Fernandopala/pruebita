@@ -40,6 +40,10 @@ Route::get('tomas', function () {
     return view('tomas');
 })->name('tomas');
 
+Route::get('mensajes', 'MensajesController@index');
+
+
+
 
 
 
